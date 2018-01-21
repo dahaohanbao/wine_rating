@@ -5,7 +5,7 @@ library(ggplot2)
 library(gapminder)
 library(stringr)
 
-wine <- read.csv("/Users/Fang/Desktop/UBCcourses/532/wine-reviews/winemag-data-130k-v2.csv")
+wine <- read.csv("https://raw.githubusercontent.com/rq1995/DSCI_522_milestone/master/winemag-data_first150k.csv")
 #head(wine)
 #unique(wine$region_1)
 # region <- gapminder %>% select(country, continent) %>% unique()
