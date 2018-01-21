@@ -1,0 +1,12 @@
+name: WineRating
+title: WineRating
+username:
+account: fyang
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 259002
+bundleId: 1185835
+url: https://fyang.shinyapps.io/WineRating/
+when: 1516562753.23628
+asMultiple: FALSE
+asStatic: FALSE
