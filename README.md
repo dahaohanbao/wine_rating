@@ -1,14 +1,15 @@
 ## Wine Rating Analysis
 This code was witten by Fang Yang (yffarris@gmail.com). It provides a shiny app for users as a tool to do wine rating analysis. 
 
-##Dataset
+
+## Dataset
 My wine rating dataset comes from Kaggle with 
 
 Link : [https://www.kaggle.com/zynicide/wine-reviews/data](https://www.kaggle.com/zynicide/wine-reviews/data)
 
 
 
-## Usage:
+## Usage
 
 This code requires R and packages below.
 ```
@@ -23,7 +24,7 @@ install.packages("the package name")
 ```
 
 
-##RUN
+## RUN
 
 | File Placeholder                |
 | ------------------------------- |
