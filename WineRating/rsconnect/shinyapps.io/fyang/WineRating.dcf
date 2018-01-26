@@ -5,8 +5,8 @@ account: fyang
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 259002
-bundleId: 1193917
+bundleId: 1193955
 url: https://fyang.shinyapps.io/WineRating/
-when: 1516946759.42473
+when: 1516950032.16238
 asMultiple: FALSE
 asStatic: FALSE

@@ -4,7 +4,7 @@ library(ggplot2)
 library(DT)
 
 
-wine <- read.csv("https://raw.githubusercontent.com/rq1995/DSCI_522_milestone/master/winemag-data_first150k.csv") %>% 
+wine <- read.csv("https://raw.githubusercontent.com/dahaohanbao/wine_rating/master/data/winemag-data_first150k%202.csv") %>% 
   select(country, points, price, variety) %>% na.omit() %>% droplevels()
 
 # Define UI for application that draws a plot
